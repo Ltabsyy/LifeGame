@@ -1,0 +1,50 @@
+numberOfTemplates=8
+
+name:StillLife:Block
+size:2*2
+  1 1
+  1 1
+
+name:StillLife:Beehive
+size:3*4
+  0 1 1 0
+  1 0 0 1
+  0 1 1 0
+
+name:StillLife:Loaf
+size:4*4
+  0 1 1 0
+  1 0 0 1
+  0 1 0 1
+  0 0 1 0
+
+name:StillLife:Boat
+size:3*3
+  0 1 0
+  1 0 1
+  1 1 0
+
+name:StillLife:Ship
+size:3*3
+  0 1 1
+  1 0 1
+  1 1 0
+
+name:StillLife:Tub
+size:3*3
+  0 1 0
+  1 0 1
+  0 1 0
+
+name:StillLife:Pond
+size:4*4
+  0 1 1 0
+  1 0 0 1
+  1 0 0 1
+  0 1 1 0
+
+name:Oscillator:Blinker
+size:3*3
+  0 0 0
+  1 1 1
+  0 0 0
